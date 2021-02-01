@@ -1,6 +1,8 @@
 # Deep Learning Tutorial 
 ### 45 Papers + TF implementations
 
+## Lectures
+
 ## Topics (papers)
 ### Modern CNNs
 - Alex Krizhevsky, et al. "ImageNet Classification with Deep Convolutional Neural Networks", NIPS, 2012
